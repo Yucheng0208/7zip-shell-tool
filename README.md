@@ -1,12 +1,12 @@
 # 7zip-shell-tool
 
-A multilingual interactive 7-Zip command-line tool written in Bash.  
+A multilingual interactive `7-Zip` command-line tool written in Bash.  
 Supports compression, extraction, and archive listing with persistent language settings.
 
 ## Features
 
 - Compress folders/files to `.7z`, `.zip`, `.tar`, `.gz`, `.xz`
-- Extract archives to target directory
+- Extract archives to the target directory
 - List archive contents
 - Selectable compression levels (store to ultra)
 - Interactive language setup (English / 中文)
@@ -16,8 +16,8 @@ Supports compression, extraction, and archive listing with persistent language s
 ## Quick Start
 
 ```bash
-chmod +x sevenzip_tool.sh
-./sevenzip_tool.sh
+chmod +x 7z-run.sh
+./7z-run.sh
 
 ## LICENSE
 This project is released under the [MIT License](LICENSE).
